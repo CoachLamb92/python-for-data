@@ -44,7 +44,7 @@ def challenge_1():
     user_name = input("Who even are you?\n")
     print(f"Hello {user_name}!\nWe took your number and divided it by {divisor} to get {result}.\nCasting this to an integer results in: {int(result)}")
 
-challenge_1()
+# challenge_1()
 
 def challenge_2():
     """
@@ -58,4 +58,40 @@ def challenge_2():
     for i in range(height):
         print("*" * width)
 
-challenge_2()
+# challenge_2()
+
+def homework():
+    # The iter() function takes an iterable as an argument and returns an iterator object.
+    # The next() function takes an iterator as an argument and returns the value and the next index
+    fives = []
+    fives.append(0 * 5)
+    fives.append(1 * 5)
+    fives.append(2 * 5)
+    fives.append(3 * 5)
+    fives.append(4 * 5)
+    fives.append(5 * 5)
+    fives.append(6 * 5)
+    fives.append(7 * 5)
+    fives.append(8 * 5)
+    fives.append(9 * 5)
+    fives.append(10 * 5)
+    fives.append(11 * 5)
+    fives.append(12 * 5)
+    print(fives)
+    fives.remove(15)
+    print(fives)
+    start_fives = fives[:3]
+    end_fives = fives[3:]
+    start_fives.append(15)
+    fives = start_fives
+    print(fives)
+    fives.extend(end_fives)
+    print(fives)
+    fives.pop()
+    print(fives)
+    print(f"The 5th element in the list is {fives[4]}")
+    wanted = 40
+    print(f"{wanted} is at index {fives.index(wanted)} in the list")
+    print(f"5 appears {fives.count(5)} time(s) in the list")
+    
+homework()

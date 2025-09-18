@@ -1,0 +1,34 @@
+ProductID,ProductName,ProductCategory,Supplier,CustomerID,CustomerName,CustomerCity,CustomerCountry
+P01,Laptop,Electronics,Supplier A,C101,John Doe,New York,USA
+P02,Mouse,Electronics,Supplier A,C102,Jane Smith,London,UK
+P03,Keyboard,Electronics,Supplier B,C103,Peter Jones,Paris,France
+P04,Monitor,Electronics,Supplier C,C104,Mary Williams,Tokyo,Japan
+P05,Desk Lamp,Furniture,Supplier B,C105,Robert Brown,Sydney,Australia
+P06,Office Chair,Furniture,Supplier D,C106,Lisa Davis,Berlin,Germany
+P07,Notebook,Stationery,Supplier E,C107,Chris Evans,Rome,Italy
+P08,Pen Set,Stationery,Supplier F,C108,Amanda White,Madrid,Spain
+P09,External Hard Drive,Electronics,Supplier A,C109,Kevin Green,Toronto,Canada
+P10,Webcam,Electronics,Supplier G,C110,Sarah Hall,Mexico City,Mexico
+P11,Headphones,Electronics,Supplier E,C111,Michael Clark,Dublin,Ireland
+P12,Coffee Mug,Kitchenware,Supplier C,C112,Jessica Miller,Seoul,South Korea
+P13,Water Bottle,Kitchenware,Supplier A,C113,Daniel Wilson,Beijing,China
+P14,Stapler,Stationery,Supplier D,C114,Linda Harris,Cairo,Egypt
+P15,Calculator,Stationery,Supplier F,C115,David Taylor,Moscow,Russia
+P16,Filing Cabinet,Furniture,Supplier G,C116,Laura King,Brasília,Brazil
+P17,Printer,Electronics,Supplier B,C117,Tom Adams,New York,USA
+P18,Speaker,Electronics,Supplier D,C118,Olivia Scott,London,UK
+P19,Desk Organizer,Furniture,Supplier E,C119,Paul Baker,Paris,France
+P20,Binder,Stationery,Supplier G,C120,Emily Carter,Tokyo,Japan
+P21,Mouse Pad,Electronics,Supplier A,C121,Mark Evans,Sydney,Australia
+P22,Lamp,Furniture,Supplier F,C122,Chloe Green,Berlin,Germany
+P23,Highlighter,Stationery,Supplier B,C123,James Bond,Rome,Italy
+P24,USB Cable,Electronics,Supplier D,C124,Susan Taylor,Madrid,Spain
+P25,Backpack,Stationery,Supplier A,C125,Steve King,Toronto,Canada
+P26,Bookshelf,Furniture,Supplier C,C126,Nancy Hall,Mexico City,Mexico
+P27,Shredder,Electronics,Supplier E,C127,Jason Brown,Dublin,Ireland
+P28,Sticky Notes,Stationery,Supplier B,C128,Maria Davis,Seoul,South Korea
+P29,Whiteboard,Stationery,Supplier F,C129,Robert Lewis,Beijing,China
+P30,Ergonomic Chair,Furniture,Supplier G,C130,Laura White,Cairo,Egypt
+P31,Drawing Pad,Electronics,Supplier A,C131,Peter Johnson,Moscow,Russia
+P32,Clock,Furniture,Supplier C,C132,Chris Miller,Brasília,Brazil
+P33,Eraser,Stationery,Supplier E,C133,Sarah Adams,New York,USA

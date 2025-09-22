@@ -1,6 +1,6 @@
 # Sparta Education: Python for Data
 
-## Cid
+## Capstone Project: A statistical overview of Titanic passenger data
 
 ### By Morgan Lamb
 
